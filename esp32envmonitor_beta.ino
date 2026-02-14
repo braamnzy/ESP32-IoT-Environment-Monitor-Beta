@@ -1,7 +1,5 @@
 /* ESP32 IoT Environmental Monitor (Beta)
 Version 0.2
-- Penambahan pembacaan sensor MQ-135 untuk kualitas udara
-- Perbaikan koneksi WiFi dengan auto-reconnect
 */
 
 #include <WiFi.h>
